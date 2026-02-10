@@ -12,7 +12,9 @@
 
 <p align="center">
   <a href="https://trackgeek.net"><img src="https://img.shields.io/badge/Website-000000?&style=for-the-badge&logo=google-chrome&logoColor=ffffff"></a>
-  <a href="https://x.com/TrackGeekOfc"><img src="https://img.shields.io/badge/Twitter-000000?&style=for-the-badge&logo=x&logoColor=ffffff"></a>
-  <a href="https://instagram.com/trackgeekofc"><img src="https://img.shields.io/badge/Instagram-000000?&style=for-the-badge&logo=instagram&logoColor=ffffff"></a>
   <a href="https://bsky.app/profile/trackgeek.net"><img src="https://img.shields.io/badge/Bluesky-000000?&style=for-the-badge&logo=bluesky&logoColor=ffffff"></a>
+  <a href="https://discord.com/invite/76bcftRnuT"><img src="https://img.shields.io/badge/Discord-000000?&style=for-the-badge&logo=discord&logoColor=ffffff"></a>
+  <a href="https://instagram.com/trackgeekofc"><img src="https://img.shields.io/badge/Instagram-000000?&style=for-the-badge&logo=instagram&logoColor=ffffff"></a>
+  <a href="https://x.com/TrackGeekOfc"><img src="https://img.shields.io/badge/Twitter-000000?&style=for-the-badge&logo=x&logoColor=ffffff"></a>
+  <a href="https://github.com/TrackGeek"><img src="https://img.shields.io/badge/Github-000000?&style=for-the-badge&logo=github&logoColor=ffffff"></a>
 </p>
