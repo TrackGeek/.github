@@ -18,3 +18,12 @@
   <a href="https://x.com/TrackGeekOfc"><img src="https://img.shields.io/badge/Twitter-000000?&style=for-the-badge&logo=x&logoColor=ffffff"></a>
   <a href="https://github.com/TrackGeek"><img src="https://img.shields.io/badge/Github-000000?&style=for-the-badge&logo=github&logoColor=ffffff"></a>
 </p>
+
+## <samp>Repositories</samp>
+
+- <samp>[Web](https://github.com/TrackGeek/web): Unified platform for tracking games, movies, series, anime, manga, and books — all in one place.</samp>
+- <samp>[Api](https://github.com/TrackGeek/api):  API for a unified media tracking platform, with progress, statistics, and social authentication.</samp>
+- <samp>[Mobile Android](https://github.com/TrackGeek/mobile-android): Mobile Android App for the unified media tracking platform.</samp>
+- <samp>[Mobile iOS](https://github.com/TrackGeek/mobile-ios): iOS app for tracking all your media in one unified platform.</samp>
+- <samp>[Browser Extension](https://github.com/TrackGeek/browser-extension): Browser extension for unified media tracking across the web.</samp>
+- <samp>[Docs](https://github.com/TrackGeek/docs): Official documentation for TrackGeek services and APIs.</samp>
