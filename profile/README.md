@@ -11,14 +11,14 @@
 </h4>
 
 <p align="center">
-  <a href="https://trackgeek.net"><img src="https://img.shields.io/badge/Website-000000?&style=for-the-badge&logo=google-chrome&logoColor=ffffff"></a>
-  <a href="https://bsky.app/profile/trackgeek.net"><img src="https://img.shields.io/badge/Bluesky-000000?&style=for-the-badge&logo=bluesky&logoColor=ffffff"></a>
-  <a href="https://discord.com/invite/76bcftRnuT"><img src="https://img.shields.io/badge/Discord-000000?&style=for-the-badge&logo=discord&logoColor=ffffff"></a>
-  <a href="https://instagram.com/trackgeekofc"><img src="https://img.shields.io/badge/Instagram-000000?&style=for-the-badge&logo=instagram&logoColor=ffffff"></a>
+  <a href="https://trackgeek.net"><img src="https://img.shields.io/badge/Website-99e3a0?&style=for-the-badge&logo=google-chrome&logoColor=004b38"></a>
+  <a href="https://bsky.app/profile/trackgeek.net"><img src="https://img.shields.io/badge/Website-99e3a0?&style=for-the-badge&logo=bluesky&logoColor=004b38"></a>
+  <a href="https://discord.com/invite/76bcftRnuT"><img src="https://img.shields.io/badge/Discord-99e3a0?&style=for-the-badge&logo=discord&logoColor=004b38"></a>
+  <a href="https://instagram.com/trackgeekofc"><img src="https://img.shields.io/badge/Instagram-99e3a0?&style=for-the-badge&logo=instagram&logoColor=004b38"></a>
   <br>
-  <a href="https://x.com/TrackGeekOfc"><img src="https://img.shields.io/badge/Twitter-000000?&style=for-the-badge&logo=x&logoColor=ffffff"></a>
-  <a href="https://github.com/TrackGeek"><img src="https://img.shields.io/badge/Github-000000?&style=for-the-badge&logo=github&logoColor=ffffff"></a>
-  <a href="https://translate.trackgeek.net"><img src="https://img.shields.io/badge/Crowdin-000000?style=for-the-badge&logo=crowdin&logoColor=ffffff"></a>
+  <a href="https://x.com/TrackGeekOfc"><img src="https://img.shields.io/badge/Twitter-99e3a0?&style=for-the-badge&logo=x&logoColor=004b38"></a>
+  <a href="https://github.com/TrackGeek"><img src="https://img.shields.io/badge/Github-99e3a0?&style=for-the-badge&logo=github&logoColor=004b38"></a>
+  <a href="https://translate.trackgeek.net"><img src="https://img.shields.io/badge/Crowdin-99e3a0?style=for-the-badge&logo=crowdin&logoColor=004b38"></a>
 </p>
 
 ## <samp>Repositories</samp>
