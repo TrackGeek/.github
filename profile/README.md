@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://trackgeek.net"><img src="https://img.shields.io/badge/Website-99e3a0?&style=for-the-badge&logo=google-chrome&logoColor=004b38"></a>
-  <a href="https://bsky.app/profile/trackgeek.net"><img src="https://img.shields.io/badge/Website-99e3a0?&style=for-the-badge&logo=bluesky&logoColor=004b38"></a>
+  <a href="https://bsky.app/profile/trackgeek.net"><img src="https://img.shields.io/badge/BlueSky-99e3a0?&style=for-the-badge&logo=bluesky&logoColor=004b38"></a>
   <a href="https://discord.com/invite/76bcftRnuT"><img src="https://img.shields.io/badge/Discord-99e3a0?&style=for-the-badge&logo=discord&logoColor=004b38"></a>
   <a href="https://instagram.com/trackgeekofc"><img src="https://img.shields.io/badge/Instagram-99e3a0?&style=for-the-badge&logo=instagram&logoColor=004b38"></a>
   <br>
